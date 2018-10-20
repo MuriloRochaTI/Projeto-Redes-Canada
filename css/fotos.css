@@ -1,0 +1,39 @@
+figure, h1, body, header, footer{
+	margin: 0px;
+	padding: 0px;
+}
+#div-titulo-fotos{
+	 color: red; 
+	text-align: center; 
+	font-family: gibson;
+	padding-top: 30px;
+	font-size: 40px;
+	border-bottom: 2px solid gray;
+}
+
+#div-galeria-fotos{
+	width: 1175px;
+	height: 2700px;
+	padding-top: 25px;
+	
+	
+	margin: auto;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.galeria_fotos{
+	width: 350px;
+	height: 360px;
+	margin-left: 32px;
+	margin-bottom: 25px;
+	background-color: red;
+	border-radius: 5px;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	float: left;
+	transition: 0.5s;
+	
+}
+
+.galeria_fotos:hover{
+	transform: scale(1.1);
+}

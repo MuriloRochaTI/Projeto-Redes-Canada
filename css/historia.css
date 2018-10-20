@@ -1,0 +1,78 @@
+h1{
+	font-family: gibson;
+	font-size: 40px;
+	padding-top: 15px;
+	text-align: center;
+	color: #c93838;
+}
+
+#img_historia{
+	width: 100%;
+	height: 450px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-image: url(../image/canada2.jpg);
+}
+
+#div-geral-conteudo{
+	width: 1200px;
+	height: 1750px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.02) inset;
+}
+
+#titulo-historia{
+	width: 153px;
+	border-bottom: 2px solid #c40b23;
+	height: 60px;
+	
+	margin: auto;
+}
+
+#texto-historia{
+	width: 100%;
+	height: 110px;
+	
+	padding-top: 15px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 18px;
+	
+}
+
+#imagem-texto{
+	width: 320px;
+	height: 300px;
+	margin: auto;
+	
+	background-image: url(../image/baia-hudson.jpg);
+	background-size: 100% 100%;
+}
+
+
+.historia-anos{
+	width: 100%;
+	height: 185px;
+	margin-top: 15px;
+	padding-top: 15px;
+	border-bottom: 2px solid #ebebeb;
+	border-top: 2px solid #ebebeb;
+	
+	
+	font-family: Arial;
+	font-size: 17px;
+	text-align: left;
+	line-height: 1.5;
+	
+	
+}
+
+
+
+
+
+
+
+

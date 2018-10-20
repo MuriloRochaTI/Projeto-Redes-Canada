@@ -1,0 +1,86 @@
+h1{
+	font-family: gibson;
+	font-size: 40px;
+	padding-top: 15px;
+	text-align: center;
+	color: #c93838;
+}
+
+#img_curiosidade{
+	width: 100%;
+	height: 450px;
+
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-image: url(../image/canada-curiosidade.jpg);
+	
+
+}
+
+#div-conteudo-geral-curiosidade{
+	width: 1200px;
+	height: 850px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.02) inset;
+
+}
+
+
+#titulo-curiosidade{
+	width: 750px;
+	border-bottom: 2px solid #c40b23;
+	height: 60px;
+	
+	font-size: 30px;
+	margin: auto;
+}
+
+.div-curiosidade{
+	width: 1000px;
+	padding-top: 20px;
+	height: 670px;
+	line-height: 2.5;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+ul, li{
+	
+	font-size: 18px;
+	font-family: Arial;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

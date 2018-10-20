@@ -1,0 +1,197 @@
+h1{
+	font-family: gibson;
+	font-size: 40px;
+	padding-top: 15px;
+	text-align: center;
+	color: #c93838;
+}
+
+#img_cultura{
+	width: 100%;
+	height: 450px;
+
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-image: url(../image/canada-cultura.jpg);
+	
+
+}
+
+#div-conteudo-geral-cultura{
+	width: 1200px;
+	height: 2530px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.02) inset;
+
+}
+
+
+#titulo-cultura{
+	width: 380px;
+	border-bottom: 2px solid #c40b23;
+	height: 60px;
+	
+	font-size: 30px;
+	margin: auto;
+}
+
+.div-cultura{
+	width: 1000px;
+	padding-top: 20px;
+	height: 600px;
+	line-height: 2.5;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.02) inset;
+	
+}
+
+
+
+.div-cultura-canada{
+	width: 900px;
+	height: 2450px;
+	
+	margin-left: auto;
+	margin-top: 10px;
+	margin-right: auto;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.02) inset;
+	
+}
+
+.texto-cultura{
+	width: 100%;
+	height: 400px;
+	margin-top: 5px;
+	
+	overflow: hidden;
+	text-align: justify;
+	font-family: Arial;
+	font-size: 17px;
+	
+
+}
+
+.texto-cultura2{
+	width: 100%;
+	height: 160px;
+	margin-top: 5px;
+	
+	overflow: hidden;
+	text-align: justify;
+	font-family: Arial;
+	font-size: 17px;
+}
+
+.texto-cultura3{
+	width: 100%;
+	height: 120px;
+	margin-top: 5px;
+	
+	overflow: hidden;
+	text-align: justify;
+	font-family: Arial;
+	font-size: 17px;
+}
+
+.texto-estadunidense{
+	width: 100%;
+	height: 200px;
+	margin-top: 5px;
+	
+	overflow: hidden;
+	text-align: justify;
+	font-family: Arial;
+	font-size: 17px;
+}
+
+
+
+
+.div-geral-musica-banda{
+	width: 100%;
+	height: 490px;
+	padding-top: 10px;
+	
+	border-top: 2px solid #ebebeb;
+}
+
+.imagem-banda{
+	width: 390px;
+	height: 350px;
+	
+	float: left;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.02) inset;
+	
+}
+
+.div-texto-titulo{
+	width: 505px;
+	height: 350px;
+	margin-left: 5px;
+	
+	float: left;
+}
+
+.titulo-banda{
+	width: 100%;
+	height: 35px;
+	padding-top: 5px;
+	
+	font-family: Arial;
+	font-size: 30px;
+	text-align: center;
+	color: #c93838;
+}
+
+.descricao{
+	width: 100%;
+	height: 310px;
+	
+}
+
+
+.historia-banda{
+	width: 100%;
+	height: 155px;
+	padding-top: 10px;
+	font-family: Arial;
+	font-size: 17px;
+	
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
